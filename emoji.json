@@ -29,6 +29,16 @@
     "char": "😄",
     "category": "people"
   },
+  "sweat_smile": {
+    "keywords": ["face", "hot", "happy", "laugh", "relief"],
+    "char": "😅",
+    "category": "people"
+  },
+  "laughing": {
+    "keywords": ["happy", "joy", "lol", "satisfied", "haha", "face", "glad", "XD"],
+    "char": "😆",
+    "category": "people"
+  },
   "innocent": {
     "keywords": ["face", "angel", "heaven", "halo"],
     "char": "😇",
