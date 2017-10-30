@@ -1,4 +1,34 @@
 {
+  "grinning": {
+    "keywords": ["face", "smile", "happy", "joy", ":D"],
+    "char": "😀",
+    "category": "people"
+  },
+  "grimacing": {
+    "keywords": ["face", "grimace", "teeth"],
+    "char": "😬",
+    "category": "people"
+  },
+  "grin": {
+    "keywords": ["face", "happy", "smile", "joy", "kawaii"],
+    "char": "😁",
+    "category": "people"
+  },
+  "joy": {
+    "keywords": ["face", "cry", "tears", "weep", "happy", "happytears", "haha"],
+    "char": "😂",
+    "category": "people"
+  },
+  "smiley": {
+    "keywords": ["face", "happy", "joy", "haha", ":D", "funny", ":)"],
+    "char": "😃",
+    "category": "people"
+  },
+  "smile": {
+    "keywords": ["face", "happy", "joy", "funny", "haha", "laugh", "like", ":D", ":)"],
+    "char": "😄",
+    "category": "people"
+  },
   "innocent": {
     "keywords": ["face", "angel", "heaven", "halo"],
     "char": "😇",
