@@ -1,0 +1,39 @@
+{
+  "name": "emojilib",
+  "version": "2.0.2",
+  "description": "Emoji keyword library.",
+  "main": "index.js",
+  "files": [
+    "emojis.json",
+    "index.js",
+    "ordered.json",
+    "LICENSE",
+    "package.json"
+  ],
+  "scripts": {
+    "build": "node build.js",
+    "prepublish": "npm run build",
+    "test": "phantomjs test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamdharmveer/libemoji.git"
+  },
+  "keywords": [
+    "emoji",
+    "keyword",
+    "search"
+  ],
+  "author": "Dharmveer Sharma <iamdharmveer.github.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamdharmveer/libemoji/issues"
+  },
+  "homepage": "https://github.com/iamdharmveer/libemoji#readme",
+  "devDependencies": {
+    "JSONStream": "^1.0.4",
+    "escape-string-regexp": "^1.0.4",
+    "format-json-stream": "^0.1.5",
+    "phantomjs": "^1.9.17"
+  }
+}
