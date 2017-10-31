@@ -9,6 +9,7 @@
     "char": "😬",
     "category": "people"
   },
+  
   "grin": {
     "keywords": ["face", "happy", "smile", "joy", "kawaii"],
     "char": "😁",
@@ -667,6 +668,46 @@
   "man_with_turban": {
     "keywords": ["male", "indian", "hinduism", "arabs"],
     "char": "👳",
+    "category": "people"
+  },
+  "womans_clothes": {
+    "keywords": ["fashion", "shopping", "female"],
+    "char": "👚",
+    "category": "people"
+  },
+  "shirt": {
+    "keywords": ["fashion", "cloth", "casual", "tshirt", "tee"],
+    "char": "👕",
+    "category": "people"
+  },
+  "jeans": {
+    "keywords": ["fashion", "shopping"],
+    "char": "👖",
+    "category": "people"
+  },
+  "necktie": {
+    "keywords": ["shirt", "suitup", "formal", "fashion", "cloth", "business"],
+    "char": "👔",
+    "category": "people"
+  },
+  "dress": {
+    "keywords": ["clothes", "fashion", "shopping"],
+    "char": "👗",
+    "category": "people"
+  },
+  "bikini": {
+    "keywords": ["swimming", "female", "woman", "girl", "fashion", "beach", "summer"],
+    "char": "👙",
+    "category": "people"
+  },
+  "kimono": {
+    "keywords": ["dress", "fashion", "women", "female", "japanese"],
+    "char": "👘",
+    "category": "people"
+  },
+  "lipstick": {
+    "keywords": ["female", "girl", "fashion", "woman"],
+    "char": "💄",
     "category": "people"
   },
   "cop": {
