@@ -710,6 +710,56 @@
     "char": "💄",
     "category": "people"
   },
+  "kiss": {
+    "keywords": ["face", "lips", "love", "like", "affection", "valentines"],
+    "char": "💋",
+    "category": "people"
+  },
+  "footprints": {
+    "keywords": ["feet", "tracking", "walking", "beach"],
+    "char": "👣",
+    "category": "people"
+  },
+  "high_heel": {
+    "keywords": ["fashion", "shoes", "female", "pumps", "stiletto"],
+    "char": "👠",
+    "category": "people"
+  },
+  "sandal": {
+    "keywords": ["shoes", "fashion", "flip flops"],
+    "char": "👡",
+    "category": "people"
+  },
+  "boot": {
+    "keywords": ["shoes", "fashion"],
+    "char": "👢",
+    "category": "people"
+  },
+  "mans_shoe": {
+    "keywords": ["fashion", "male"],
+    "char": "👞",
+    "category": "people"
+  },
+  "athletic_shoe": {
+    "keywords": ["shoes", "sports", "sneakers"],
+    "char": "👟",
+    "category": "people"
+  },
+  "womans_hat": {
+    "keywords": ["fashion", "accessories", "female", "lady", "spring"],
+    "char": "👒",
+    "category": "people"
+  },
+  "tophat": {
+    "keywords": ["magic", "gentleman", "classy", "circus"],
+    "char": "🎩",
+    "category": "people"
+  },
+  "helmet": {
+    "keywords": ["construction", "build"],
+    "char": "⛑",
+    "category": "people"
+  },
   "cop": {
     "keywords": ["man", "police", "law", "legal", "enforcement", "arrest", "911"],
     "char": "👮",
