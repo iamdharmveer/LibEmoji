@@ -1294,6 +1294,46 @@
     "char": "〽️",
     "category": "symbols"
   },
+  "haircut": {
+    "keywords": ["female", "girl", "woman"],
+    "char": "💇",
+    "category": "people"
+  },
+  "massage": {
+    "keywords": ["female", "girl", "woman", "head"],
+    "char": "💆",
+    "category": "people"
+  },
+  "couple_with_heart": {
+    "keywords": ["pair", "love", "like", "affection", "human", "dating", "valentines", "marriage"],
+    "char": "💑",
+    "category": "people"
+  },
+  "female_couple_with_heart": {
+    "keywords": ["pair", "love", "like", "affection", "human", "dating", "valentines", "marriage"],
+    "char": "👩‍❤️‍👩",
+    "category": "people"
+  },
+  "male_couple_with_heart": {
+    "keywords": ["pair", "love", "like", "affection", "human", "dating", "valentines", "marriage"],
+    "char": "👨‍❤️‍👨",
+    "category": "people"
+  },
+  "couplekiss": {
+    "keywords": ["pair", "valentines", "love", "like", "dating", "marriage"],
+    "char": "💏",
+    "category": "people"
+  },
+  "female_couplekiss": {
+    "keywords": ["pair", "valentines", "love", "like", "dating", "marriage"],
+    "char": "👩‍❤️‍💋‍👩",
+    "category": "people"
+  },
+  "male_couplekiss": {
+    "keywords": ["pair", "valentines", "love", "like", "dating", "marriage"],
+    "char": "👨‍❤️‍💋‍👨",
+    "category": "people"
+  },
   "warning": {
     "keywords": ["exclamation", "wip", "alert", "error", "problem", "issue"],
     "char": "⚠️",
