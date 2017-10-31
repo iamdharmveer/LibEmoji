@@ -634,6 +634,26 @@
     "char": "👴",
     "category": "people"
   },
+  "bust_in_silhouette": {
+    "keywords": ["user", "person", "human"],
+    "char": "👤",
+    "category": "people"
+  },
+  "busts_in_silhouette": {
+    "keywords": ["user", "person", "human", "group", "team"],
+    "char": "👥",
+    "category": "people"
+  },
+  "speaking_head": {
+    "keywords": ["user", "person", "human"],
+    "char": "🗣",
+    "category": "people"
+  },
+  "baby": {
+    "keywords": ["child", "boy", "girl", "toddler"],
+    "char": "👶",
+    "category": "people"
+  },
   "older_woman": {
     "keywords": ["female", "women", "girl", "lady"],
     "char": "👵",
